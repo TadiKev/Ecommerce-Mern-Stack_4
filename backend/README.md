@@ -36,9 +36,6 @@ npm install
 cd ../frontend
 npm install
 
-PORT=5000
-DB_URL='mongodb+srv://EcomDeveloper:EcomDeveloper123@clothesecommerce.gkef3.mongodb.net/clothesEcom?retryWrites=true&w=majority'
-JWT_SECRET_KEY="2ab8b77d1793de3e957321fe03f743614902ea89e4b05a84cc2105189701d4fb2872feaf69b73690a1cf9a58895714b263bb70cf55e64f42dabf269a0a5ead8d"
 
 ##Start the backend server:
 cd backend
